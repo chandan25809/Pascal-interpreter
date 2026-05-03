@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "src/delphi/*.jar",
+        "/usr/local/lib/antlr-4.13.2-complete.jar"
+    ]
+}
